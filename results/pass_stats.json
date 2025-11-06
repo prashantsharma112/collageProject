@@ -1,0 +1,240 @@
+[
+    {
+        "model": "codegen",
+        "file": "program_1.java",
+        "passed": 0,
+        "total": 10,
+        "pass_rate": 0.0
+    },
+    {
+        "model": "codegen",
+        "file": "program_10.java",
+        "passed": 0,
+        "total": 10,
+        "pass_rate": 0.0
+    },
+    {
+        "model": "codegen",
+        "file": "program_2.java",
+        "passed": 0,
+        "total": 10,
+        "pass_rate": 0.0
+    },
+    {
+        "model": "codegen",
+        "file": "program_3.java",
+        "passed": 0,
+        "total": 10,
+        "pass_rate": 0.0
+    },
+    {
+        "model": "codegen",
+        "file": "program_4.java",
+        "passed": 0,
+        "total": 10,
+        "pass_rate": 0.0
+    },
+    {
+        "model": "codegen",
+        "file": "program_5.java",
+        "passed": 0,
+        "total": 10,
+        "pass_rate": 0.0
+    },
+    {
+        "model": "codegen",
+        "file": "program_6.java",
+        "passed": 0,
+        "total": 10,
+        "pass_rate": 0.0
+    },
+    {
+        "model": "codegen",
+        "file": "program_7.java",
+        "passed": 0,
+        "total": 10,
+        "pass_rate": 0.0
+    },
+    {
+        "model": "codegen",
+        "file": "program_8.java",
+        "passed": 0,
+        "total": 10,
+        "pass_rate": 0.0
+    },
+    {
+        "model": "codegen",
+        "file": "program_9.java",
+        "passed": 0,
+        "total": 10,
+        "pass_rate": 0.0
+    },
+    {
+        "model": "codet5",
+        "file": "program_1.java",
+        "passed": 0,
+        "total": 10,
+        "pass_rate": 0.0
+    },
+    {
+        "model": "codet5",
+        "file": "program_2.java",
+        "passed": 0,
+        "total": 10,
+        "pass_rate": 0.0
+    },
+    {
+        "model": "codet5",
+        "file": "program_5.java",
+        "passed": 0,
+        "total": 10,
+        "pass_rate": 0.0
+    },
+    {
+        "model": "codet5",
+        "file": "program_6.java",
+        "passed": 0,
+        "total": 10,
+        "pass_rate": 0.0
+    },
+    {
+        "model": "gemini",
+        "file": "program_1.java",
+        "passed": 0,
+        "total": 10,
+        "pass_rate": 0.0
+    },
+    {
+        "model": "gemini",
+        "file": "program_10.java",
+        "passed": 0,
+        "total": 10,
+        "pass_rate": 0.0
+    },
+    {
+        "model": "gemini",
+        "file": "program_2.java",
+        "passed": 10,
+        "total": 10,
+        "pass_rate": 100.0
+    },
+    {
+        "model": "gemini",
+        "file": "program_3.java",
+        "passed": 2,
+        "total": 10,
+        "pass_rate": 20.0
+    },
+    {
+        "model": "gemini",
+        "file": "program_4.java",
+        "passed": 0,
+        "total": 10,
+        "pass_rate": 0.0
+    },
+    {
+        "model": "gemini",
+        "file": "program_5.java",
+        "passed": 0,
+        "total": 10,
+        "pass_rate": 0.0
+    },
+    {
+        "model": "gemini",
+        "file": "program_6.java",
+        "passed": 9,
+        "total": 10,
+        "pass_rate": 90.0
+    },
+    {
+        "model": "gemini",
+        "file": "program_7.java",
+        "passed": 0,
+        "total": 10,
+        "pass_rate": 0.0
+    },
+    {
+        "model": "gemini",
+        "file": "program_8.java",
+        "passed": 0,
+        "total": 10,
+        "pass_rate": 0.0
+    },
+    {
+        "model": "gemini",
+        "file": "program_9.java",
+        "passed": 8,
+        "total": 10,
+        "pass_rate": 80.0
+    },
+    {
+        "model": "hybrid",
+        "file": "program_1.java",
+        "passed": 0,
+        "total": 10,
+        "pass_rate": 0.0
+    },
+    {
+        "model": "hybrid",
+        "file": "program_10.java",
+        "passed": 0,
+        "total": 10,
+        "pass_rate": 0.0
+    },
+    {
+        "model": "hybrid",
+        "file": "program_2.java",
+        "passed": 10,
+        "total": 10,
+        "pass_rate": 100.0
+    },
+    {
+        "model": "hybrid",
+        "file": "program_3.java",
+        "passed": 0,
+        "total": 10,
+        "pass_rate": 0.0
+    },
+    {
+        "model": "hybrid",
+        "file": "program_4.java",
+        "passed": 0,
+        "total": 10,
+        "pass_rate": 0.0
+    },
+    {
+        "model": "hybrid",
+        "file": "program_5.java",
+        "passed": 10,
+        "total": 10,
+        "pass_rate": 100.0
+    },
+    {
+        "model": "hybrid",
+        "file": "program_6.java",
+        "passed": 0,
+        "total": 10,
+        "pass_rate": 0.0
+    },
+    {
+        "model": "hybrid",
+        "file": "program_7.java",
+        "passed": 0,
+        "total": 10,
+        "pass_rate": 0.0
+    },
+    {
+        "model": "hybrid",
+        "file": "program_8.java",
+        "passed": 0,
+        "total": 10,
+        "pass_rate": 0.0
+    },
+    {
+        "model": "hybrid",
+        "file": "program_9.java",
+        "passed": 0,
+        "total": 10,
+        "pass_rate": 0.0
+    }
+]

@@ -1,0 +1,7 @@
+transformers>=4.36
+torch>=2.0
+protobuf~=5.29.5
+python-dotenv~=1.1.1
+codebleu~=0.7.0
+sacrebleu~=2.5.1
+requests~=2.32.4

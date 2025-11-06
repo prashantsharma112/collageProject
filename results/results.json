@@ -1,0 +1,522 @@
+{
+    "program_1": [
+        {
+            "input": "1000000000 0",
+            "output": "Enter the first number: Enter the second number: The sum is: 1000000000",
+            "error": ""
+        },
+        {
+            "input": "-1 1",
+            "output": "Enter the first number: Enter the second number: The sum is: 0",
+            "error": ""
+        },
+        {
+            "input": "-1 -1000000000",
+            "output": "Enter the first number: Enter the second number: The sum is: -1000000001",
+            "error": ""
+        },
+        {
+            "input": "1 1",
+            "output": "Enter the first number: Enter the second number: The sum is: 2",
+            "error": ""
+        },
+        {
+            "input": "1 1000000000",
+            "output": "Enter the first number: Enter the second number: The sum is: 1000000001",
+            "error": ""
+        },
+        {
+            "input": "-760306 37258",
+            "output": "Enter the first number: Enter the second number: The sum is: -723048",
+            "error": ""
+        },
+        {
+            "input": "-162986 434020",
+            "output": "Enter the first number: Enter the second number: The sum is: 271034",
+            "error": ""
+        },
+        {
+            "input": "89064 247488",
+            "output": "Enter the first number: Enter the second number: The sum is: 336552",
+            "error": ""
+        },
+        {
+            "input": "-103622 67510",
+            "output": "Enter the first number: Enter the second number: The sum is: -36112",
+            "error": ""
+        },
+        {
+            "input": "-605802 -202466",
+            "output": "Enter the first number: Enter the second number: The sum is: -808268",
+            "error": ""
+        }
+    ],
+    "program_10": [
+        {
+            "input": "abc 1234",
+            "output": "Enter a string: Enter the character to count:",
+            "error": "Exception in thread \"main\" java.util.NoSuchElementException: No line found\n\tat java.base/java.util.Scanner.nextLine(Scanner.java:1690)\n\tat CharacterCounter.main(CharacterCounter.java:10)"
+        },
+        {
+            "input": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+            "output": "Enter a string: Enter the character to count:",
+            "error": "Exception in thread \"main\" java.util.NoSuchElementException: No line found\n\tat java.base/java.util.Scanner.nextLine(Scanner.java:1690)\n\tat CharacterCounter.main(CharacterCounter.java:10)"
+        },
+        {
+            "input": "a",
+            "output": "Enter a string: Enter the character to count:",
+            "error": "Exception in thread \"main\" java.util.NoSuchElementException: No line found\n\tat java.base/java.util.Scanner.nextLine(Scanner.java:1690)\n\tat CharacterCounter.main(CharacterCounter.java:10)"
+        },
+        {
+            "input": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx a",
+            "output": "Enter a string: Enter the character to count:",
+            "error": "Exception in thread \"main\" java.util.NoSuchElementException: No line found\n\tat java.base/java.util.Scanner.nextLine(Scanner.java:1690)\n\tat CharacterCounter.main(CharacterCounter.java:10)"
+        },
+        {
+            "input": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+            "output": "Enter a string: Enter the character to count:",
+            "error": "Exception in thread \"main\" java.util.NoSuchElementException: No line found\n\tat java.base/java.util.Scanner.nextLine(Scanner.java:1690)\n\tat CharacterCounter.main(CharacterCounter.java:10)"
+        },
+        {
+            "input": "str3615 str4740",
+            "output": "Enter a string: Enter the character to count:",
+            "error": "Exception in thread \"main\" java.util.NoSuchElementException: No line found\n\tat java.base/java.util.Scanner.nextLine(Scanner.java:1690)\n\tat CharacterCounter.main(CharacterCounter.java:10)"
+        },
+        {
+            "input": "str1122 str4142",
+            "output": "Enter a string: Enter the character to count:",
+            "error": "Exception in thread \"main\" java.util.NoSuchElementException: No line found\n\tat java.base/java.util.Scanner.nextLine(Scanner.java:1690)\n\tat CharacterCounter.main(CharacterCounter.java:10)"
+        },
+        {
+            "input": "str2509 str6593",
+            "output": "Enter a string: Enter the character to count:",
+            "error": "Exception in thread \"main\" java.util.NoSuchElementException: No line found\n\tat java.base/java.util.Scanner.nextLine(Scanner.java:1690)\n\tat CharacterCounter.main(CharacterCounter.java:10)"
+        },
+        {
+            "input": "str3887 str7907",
+            "output": "Enter a string: Enter the character to count:",
+            "error": "Exception in thread \"main\" java.util.NoSuchElementException: No line found\n\tat java.base/java.util.Scanner.nextLine(Scanner.java:1690)\n\tat CharacterCounter.main(CharacterCounter.java:10)"
+        },
+        {
+            "input": "str5303 str4651",
+            "output": "Enter a string: Enter the character to count:",
+            "error": "Exception in thread \"main\" java.util.NoSuchElementException: No line found\n\tat java.base/java.util.Scanner.nextLine(Scanner.java:1690)\n\tat CharacterCounter.main(CharacterCounter.java:10)"
+        }
+    ],
+    "program_2": [
+        {
+            "input": "1",
+            "output": "Enter an integer: 1 is an ODD number.",
+            "error": ""
+        },
+        {
+            "input": "-1000000000",
+            "output": "Enter an integer: -1000000000 is an EVEN number.",
+            "error": ""
+        },
+        {
+            "input": "-1000000000",
+            "output": "Enter an integer: -1000000000 is an EVEN number.",
+            "error": ""
+        },
+        {
+            "input": "-1",
+            "output": "Enter an integer: -1 is an ODD number.",
+            "error": ""
+        },
+        {
+            "input": "1000000000",
+            "output": "Enter an integer: 1000000000 is an EVEN number.",
+            "error": ""
+        },
+        {
+            "input": "-12646",
+            "output": "Enter an integer: -12646 is an EVEN number.",
+            "error": ""
+        },
+        {
+            "input": "327348",
+            "output": "Enter an integer: 327348 is an EVEN number.",
+            "error": ""
+        },
+        {
+            "input": "-12424",
+            "output": "Enter an integer: -12424 is an EVEN number.",
+            "error": ""
+        },
+        {
+            "input": "907686",
+            "output": "Enter an integer: 907686 is an EVEN number.",
+            "error": ""
+        },
+        {
+            "input": "-299168",
+            "output": "Enter an integer: -299168 is an EVEN number.",
+            "error": ""
+        }
+    ],
+    "program_3": [
+        {
+            "input": "-1000000000.0",
+            "output": "Enter the radius of the circle: The area of the circle is: 3.1415926535897933E18",
+            "error": ""
+        },
+        {
+            "input": "1000000000.0",
+            "output": "Enter the radius of the circle: The area of the circle is: 3.1415926535897933E18",
+            "error": ""
+        },
+        {
+            "input": "-1.0",
+            "output": "Enter the radius of the circle: The area of the circle is: 3.141592653589793",
+            "error": ""
+        },
+        {
+            "input": "0.0",
+            "output": "Enter the radius of the circle: The area of the circle is: 0.0",
+            "error": ""
+        },
+        {
+            "input": "-1000000000.0",
+            "output": "Enter the radius of the circle: The area of the circle is: 3.1415926535897933E18",
+            "error": ""
+        },
+        {
+            "input": "161414.7552",
+            "output": "Enter the radius of the circle: The area of the circle is: 8.185332698473604E10",
+            "error": ""
+        },
+        {
+            "input": "-44084.0149",
+            "output": "Enter the radius of the circle: The area of the circle is: 6.105372324443959E9",
+            "error": ""
+        },
+        {
+            "input": "762011.8528",
+            "output": "Enter the radius of the circle: The area of the circle is: 1.824203673876523E12",
+            "error": ""
+        },
+        {
+            "input": "-278715.0089",
+            "output": "Enter the radius of the circle: The area of the circle is: 2.440453770300864E11",
+            "error": ""
+        },
+        {
+            "input": "-216182.6964",
+            "output": "Enter the radius of the circle: The area of the circle is: 1.4682220141849448E11",
+            "error": ""
+        }
+    ],
+    "program_4": [
+        {
+            "input": "-1000000000.0 1000000000.0 -1000000000.0",
+            "output": "Enter Principal amount: Enter Rate of interest: Enter Time (in years): Simple Interest is: 1.0E25",
+            "error": ""
+        },
+        {
+            "input": "1.0 -1000000000.0 1.0",
+            "output": "Enter Principal amount: Enter Rate of interest: Enter Time (in years): Simple Interest is: -1.0E7",
+            "error": ""
+        },
+        {
+            "input": "1.0 0.0 1000000000.0",
+            "output": "Enter Principal amount: Enter Rate of interest: Enter Time (in years): Simple Interest is: 0.0",
+            "error": ""
+        },
+        {
+            "input": "-1.0 -1000000000.0 -1.0",
+            "output": "Enter Principal amount: Enter Rate of interest: Enter Time (in years): Simple Interest is: -1.0E7",
+            "error": ""
+        },
+        {
+            "input": "1000000000.0 -1.0 0.0",
+            "output": "Enter Principal amount: Enter Rate of interest: Enter Time (in years): Simple Interest is: -0.0",
+            "error": ""
+        },
+        {
+            "input": "519802.5768 180059.2521 -465722.993",
+            "output": "Enter Principal amount: Enter Rate of interest: Enter Time (in years): Simple Interest is: -4.358946611663124E14",
+            "error": ""
+        },
+        {
+            "input": "669800.5766 -42630.9331 616746.7067",
+            "output": "Enter Principal amount: Enter Rate of interest: Enter Time (in years): Simple Interest is: -1.7610723350021678E14",
+            "error": ""
+        },
+        {
+            "input": "-527614.344 -671601.8822 -837396.7854",
+            "output": "Enter Principal amount: Enter Rate of interest: Enter Time (in years): Simple Interest is: -2.967288599370436E15",
+            "error": ""
+        },
+        {
+            "input": "-892286.8852 -991778.3858 243108.6044",
+            "output": "Enter Principal amount: Enter Rate of interest: Enter Time (in years): Simple Interest is: 2.1513916529755488E15",
+            "error": ""
+        },
+        {
+            "input": "-960486.744 -707214.0902 -888419.777",
+            "output": "Enter Principal amount: Enter Rate of interest: Enter Time (in years): Simple Interest is: -6.034766876422656E15",
+            "error": ""
+        }
+    ],
+    "program_5": [
+        {
+            "input": "",
+            "output": "Enter a word or phrase: '' is a Palindrome.",
+            "error": ""
+        },
+        {
+            "input": "1234",
+            "output": "Enter a word or phrase: '1234' is NOT a Palindrome.",
+            "error": ""
+        },
+        {
+            "input": "1234",
+            "output": "Enter a word or phrase: '1234' is NOT a Palindrome.",
+            "error": ""
+        },
+        {
+            "input": "abc",
+            "output": "Enter a word or phrase: 'abc' is NOT a Palindrome.",
+            "error": ""
+        },
+        {
+            "input": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+            "output": "Enter a word or phrase: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx' is a Palindrome.",
+            "error": ""
+        },
+        {
+            "input": "str8753",
+            "output": "Enter a word or phrase: 'str8753' is NOT a Palindrome.",
+            "error": ""
+        },
+        {
+            "input": "str9779",
+            "output": "Enter a word or phrase: 'str9779' is NOT a Palindrome.",
+            "error": ""
+        },
+        {
+            "input": "str7275",
+            "output": "Enter a word or phrase: 'str7275' is NOT a Palindrome.",
+            "error": ""
+        },
+        {
+            "input": "str2794",
+            "output": "Enter a word or phrase: 'str2794' is NOT a Palindrome.",
+            "error": ""
+        },
+        {
+            "input": "str7239",
+            "output": "Enter a word or phrase: 'str7239' is NOT a Palindrome.",
+            "error": ""
+        }
+    ],
+    "program_6": [
+        {
+            "input": "1",
+            "output": "Enter an integer to see its multiplication table: --- Table of 1 ---\n1 x 1 = 1\n1 x 2 = 2\n1 x 3 = 3\n1 x 4 = 4\n1 x 5 = 5\n1 x 6 = 6\n1 x 7 = 7\n1 x 8 = 8\n1 x 9 = 9\n1 x 10 = 10",
+            "error": ""
+        },
+        {
+            "input": "1000000000",
+            "output": "Enter an integer to see its multiplication table: --- Table of 1000000000 ---\n1000000000 x 1 = 1000000000\n1000000000 x 2 = 2000000000\n1000000000 x 3 = -1294967296\n1000000000 x 4 = -294967296\n1000000000 x 5 = 705032704\n1000000000 x 6 = 1705032704\n1000000000 x 7 = -1589934592\n1000000000 x 8 = -589934592\n1000000000 x 9 = 410065408\n1000000000 x 10 = 1410065408",
+            "error": ""
+        },
+        {
+            "input": "0",
+            "output": "Enter an integer to see its multiplication table: --- Table of 0 ---\n0 x 1 = 0\n0 x 2 = 0\n0 x 3 = 0\n0 x 4 = 0\n0 x 5 = 0\n0 x 6 = 0\n0 x 7 = 0\n0 x 8 = 0\n0 x 9 = 0\n0 x 10 = 0",
+            "error": ""
+        },
+        {
+            "input": "0",
+            "output": "Enter an integer to see its multiplication table: --- Table of 0 ---\n0 x 1 = 0\n0 x 2 = 0\n0 x 3 = 0\n0 x 4 = 0\n0 x 5 = 0\n0 x 6 = 0\n0 x 7 = 0\n0 x 8 = 0\n0 x 9 = 0\n0 x 10 = 0",
+            "error": ""
+        },
+        {
+            "input": "-1",
+            "output": "Enter an integer to see its multiplication table: --- Table of -1 ---\n-1 x 1 = -1\n-1 x 2 = -2\n-1 x 3 = -3\n-1 x 4 = -4\n-1 x 5 = -5\n-1 x 6 = -6\n-1 x 7 = -7\n-1 x 8 = -8\n-1 x 9 = -9\n-1 x 10 = -10",
+            "error": ""
+        },
+        {
+            "input": "-315361",
+            "output": "Enter an integer to see its multiplication table: --- Table of -315361 ---\n-315361 x 1 = -315361\n-315361 x 2 = -630722\n-315361 x 3 = -946083\n-315361 x 4 = -1261444\n-315361 x 5 = -1576805\n-315361 x 6 = -1892166\n-315361 x 7 = -2207527\n-315361 x 8 = -2522888\n-315361 x 9 = -2838249\n-315361 x 10 = -3153610",
+            "error": ""
+        },
+        {
+            "input": "-465562",
+            "output": "Enter an integer to see its multiplication table: --- Table of -465562 ---\n-465562 x 1 = -465562\n-465562 x 2 = -931124\n-465562 x 3 = -1396686\n-465562 x 4 = -1862248\n-465562 x 5 = -2327810\n-465562 x 6 = -2793372\n-465562 x 7 = -3258934\n-465562 x 8 = -3724496\n-465562 x 9 = -4190058\n-465562 x 10 = -4655620",
+            "error": ""
+        },
+        {
+            "input": "-918905",
+            "output": "Enter an integer to see its multiplication table: --- Table of -918905 ---\n-918905 x 1 = -918905\n-918905 x 2 = -1837810\n-918905 x 3 = -2756715\n-918905 x 4 = -3675620\n-918905 x 5 = -4594525\n-918905 x 6 = -5513430\n-918905 x 7 = -6432335\n-918905 x 8 = -7351240\n-918905 x 9 = -8270145\n-918905 x 10 = -9189050",
+            "error": ""
+        },
+        {
+            "input": "648956",
+            "output": "Enter an integer to see its multiplication table: --- Table of 648956 ---\n648956 x 1 = 648956\n648956 x 2 = 1297912\n648956 x 3 = 1946868\n648956 x 4 = 2595824\n648956 x 5 = 3244780\n648956 x 6 = 3893736\n648956 x 7 = 4542692\n648956 x 8 = 5191648\n648956 x 9 = 5840604\n648956 x 10 = 6489560",
+            "error": ""
+        },
+        {
+            "input": "-447694",
+            "output": "Enter an integer to see its multiplication table: --- Table of -447694 ---\n-447694 x 1 = -447694\n-447694 x 2 = -895388\n-447694 x 3 = -1343082\n-447694 x 4 = -1790776\n-447694 x 5 = -2238470\n-447694 x 6 = -2686164\n-447694 x 7 = -3133858\n-447694 x 8 = -3581552\n-447694 x 9 = -4029246\n-447694 x 10 = -4476940",
+            "error": ""
+        }
+    ],
+    "program_7": [
+        {
+            "input": "-1 -1 -1",
+            "output": "Enter first number: Enter second number: Enter third number: The largest number is: -1",
+            "error": ""
+        },
+        {
+            "input": "1 1 1000000000",
+            "output": "Enter first number: Enter second number: Enter third number: The largest number is: 1000000000",
+            "error": ""
+        },
+        {
+            "input": "-1 0 -1000000000",
+            "output": "Enter first number: Enter second number: Enter third number: The largest number is: 0",
+            "error": ""
+        },
+        {
+            "input": "1 1 -1",
+            "output": "Enter first number: Enter second number: Enter third number: The largest number is: 1",
+            "error": ""
+        },
+        {
+            "input": "-1 0 -1",
+            "output": "Enter first number: Enter second number: Enter third number: The largest number is: 0",
+            "error": ""
+        },
+        {
+            "input": "-208614 -704366 157828",
+            "output": "Enter first number: Enter second number: Enter third number: The largest number is: 157828",
+            "error": ""
+        },
+        {
+            "input": "42850 667850 977829",
+            "output": "Enter first number: Enter second number: Enter third number: The largest number is: 977829",
+            "error": ""
+        },
+        {
+            "input": "-261317 -150592 -474573",
+            "output": "Enter first number: Enter second number: Enter third number: The largest number is: -150592",
+            "error": ""
+        },
+        {
+            "input": "110165 900647 224019",
+            "output": "Enter first number: Enter second number: Enter third number: The largest number is: 900647",
+            "error": ""
+        },
+        {
+            "input": "-369693 703523 -556937",
+            "output": "Enter first number: Enter second number: Enter third number: The largest number is: 703523",
+            "error": ""
+        }
+    ],
+    "program_8": [
+        {
+            "input": "-1.0",
+            "output": "Enter temperature in Celsius: -1.0\u00b0C is equal to 30.2\u00b0F",
+            "error": ""
+        },
+        {
+            "input": "1000000000.0",
+            "output": "Enter temperature in Celsius: 1.0E9\u00b0C is equal to 1.800000032E9\u00b0F",
+            "error": ""
+        },
+        {
+            "input": "1.0",
+            "output": "Enter temperature in Celsius: 1.0\u00b0C is equal to 33.8\u00b0F",
+            "error": ""
+        },
+        {
+            "input": "1.0",
+            "output": "Enter temperature in Celsius: 1.0\u00b0C is equal to 33.8\u00b0F",
+            "error": ""
+        },
+        {
+            "input": "1000000000.0",
+            "output": "Enter temperature in Celsius: 1.0E9\u00b0C is equal to 1.800000032E9\u00b0F",
+            "error": ""
+        },
+        {
+            "input": "-742556.8088",
+            "output": "Enter temperature in Celsius: -742556.8088\u00b0C is equal to -1336570.25584\u00b0F",
+            "error": ""
+        },
+        {
+            "input": "-21250.833",
+            "output": "Enter temperature in Celsius: -21250.833\u00b0C is equal to -38219.49939999999\u00b0F",
+            "error": ""
+        },
+        {
+            "input": "244533.0371",
+            "output": "Enter temperature in Celsius: 244533.0371\u00b0C is equal to 440191.46678\u00b0F",
+            "error": ""
+        },
+        {
+            "input": "-847846.2303",
+            "output": "Enter temperature in Celsius: -847846.2303\u00b0C is equal to -1526091.21454\u00b0F",
+            "error": ""
+        },
+        {
+            "input": "-225123.4948",
+            "output": "Enter temperature in Celsius: -225123.4948\u00b0C is equal to -405190.29063999996\u00b0F",
+            "error": ""
+        }
+    ],
+    "program_9": [
+        {
+            "input": "-1",
+            "output": "Enter a non-negative integer: The factorial of -1 is: 1",
+            "error": ""
+        },
+        {
+            "input": "0",
+            "output": "Enter a non-negative integer: The factorial of 0 is: 1",
+            "error": ""
+        },
+        {
+            "input": "-1",
+            "output": "Enter a non-negative integer: The factorial of -1 is: 1",
+            "error": ""
+        },
+        {
+            "input": "-1000000000",
+            "output": "Enter a non-negative integer: The factorial of -1000000000 is: 1",
+            "error": ""
+        },
+        {
+            "input": "-1",
+            "output": "Enter a non-negative integer: The factorial of -1 is: 1",
+            "error": ""
+        },
+        {
+            "input": "-373280",
+            "output": "Enter a non-negative integer: The factorial of -373280 is: 1",
+            "error": ""
+        },
+        {
+            "input": "106677",
+            "output": "Enter a non-negative integer: The factorial of 106677 is: 0",
+            "error": ""
+        },
+        {
+            "input": "683149",
+            "output": "Enter a non-negative integer: The factorial of 683149 is: 0",
+            "error": ""
+        },
+        {
+            "input": "-706820",
+            "output": "Enter a non-negative integer: The factorial of -706820 is: 1",
+            "error": ""
+        },
+        {
+            "input": "-650214",
+            "output": "Enter a non-negative integer: The factorial of -650214 is: 1",
+            "error": ""
+        }
+    ]
+}
